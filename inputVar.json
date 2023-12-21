@@ -1,0 +1,14 @@
+[
+  {
+    "name": "feature1",
+    "dataType": "double",
+    "role": "input",
+    "rank": 1
+  },
+  {
+    "name": "feature2",
+    "dataType": "double",
+    "role": "input",
+    "rank": 2
+  }
+]

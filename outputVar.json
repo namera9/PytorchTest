@@ -1,0 +1,8 @@
+[
+  {
+    "name": "prediction",
+    "dataType": "double",
+    "role": "output",
+    "rank": 1
+  }
+]
