@@ -1,0 +1,22 @@
+[
+     {
+        "step":"install pandas ",
+        "command":"pip3 install pandas"
+     },
+     {
+        "step":"install base64 ",
+        "command":"pip3 install pybase64"
+     },
+     {
+        "step":"install Pillow ",
+        "command":"pip3 install Pillow"
+     },
+     {
+        "step":"install sasctl ",
+        "command":"pip3 install sasctl"
+     },
+     {
+        "step":"install pytorch ",
+        "command":"pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu"
+     }
+]
